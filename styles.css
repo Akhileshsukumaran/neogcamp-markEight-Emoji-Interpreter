@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #7fc8a9;
+}
+
+h1 {
+  padding: 2rem;
+}
+.emoji {
+  background-color: #f5e8c7;
+  color: #df2e2e;
+}
+
+.inputArea {
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-style: ridge;
+}
+
+.span-emoji {
+  padding: 0.5rem 1rem;
+  font-size: x-large;
+  cursor: pointer;
+}
+
+.div-render {
+  padding: 1rem;
+  font-size: x-large;
+  font-weight: bold;
+  color: #df2e2e;
+}
+
+.div-lower {
+  padding: 3rem;
+}
